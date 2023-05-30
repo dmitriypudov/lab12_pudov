@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\bin\Debug\lab12_pudov.exe.config
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\bin\Debug\lab12_pudov.exe
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\bin\Debug\lab12_pudov.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.Form1.resources
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.exe
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\ImMod.lab12-master\lab12_pudov\lab12_pudov\obj\Debug\lab12_pudov.pdb
